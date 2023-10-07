@@ -1,0 +1,19 @@
+{
+  "name": "websnap-backend",
+  "version": "1.0.0",
+  "description": "Backend for websnap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^6",
+    "express": "^4.18.1",
+    "puppeteer-core": "^6"
+  },
+  "devDependencies": {
+    "puppeteer": "^16.2.0"
+  }
+}
